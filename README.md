@@ -140,7 +140,7 @@
   <a href="fedi.khala@eniso.u-sousse.tn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
-  <a href="https://www.youtube.com/@fedikhala1668" target="_blank">
+  <a href="https://www.youtube.com/@fedikhala1668" >
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="+216 29636683" target="_blank">

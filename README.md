@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">About Me :<br><br>👨🏼‍🎓 Studying at the National Engineering School of Sousse.<br>🤖 Passionate about Machine Learning, Deep Learning, and AI.<br>🧠 Working on Machine Learning projects.<br>🚀 Open to work and new opportunities.</p>
+<p align="left">About Me :<br><br>👨🏼‍🎓 Studying at the National Engineering School of Sousse.<br>🤖 Passionate about AI, Machine Learning and Deep Learning.<br>🧠 Working on Machine Learning projects.<br>🚀 Open to work and new opportunities.</p>
 
 ###
 

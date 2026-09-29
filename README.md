@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hello World!👋🏼, I’m Fedi Khala, a Tunisian software engineer. 👨‍💻🇹🇳 :</h2>
+<h2 align="left">Hello World!👋🏼, I’m Fedi Khala, a Tunisian AI & software engineer. 👨‍💻🇹🇳 :</h2>
 
 ###
 
